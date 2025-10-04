@@ -1,6 +1,1 @@
-
-# NHOM 10
-LÊ THANH LIÊM
-VÕ LÝ MINH LUÂN
-NGÔ TIỂU YẾN
-
+Dự án Git Final Exam - Y cập nhật nội dung
